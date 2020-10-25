@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    background-color: rgba(61, 155, 199, 0.4);
+    padding: 20px;
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  .item a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .item a.activeLink {
+    color: lightslategray;
+  }

@@ -1,0 +1,17 @@
+.header {
+    grid-area: h;
+    background-color: rgba(61, 155, 199, 0.5);
+    padding: 10px;
+  }
+.wrapp {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  color: rgb(101, 148, 196)
+}
+.wrapp img {
+    height: 100%;
+
+    padding: 10px;
+  }
+  
